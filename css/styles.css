@@ -64,6 +64,10 @@ a{
     top: 50px;
     right: 250px;
 }
+.mnt{
+    width:100%;
+    height:100%;
+}
 .bottomCloud{
     position: absolute;
     left: 250px;
